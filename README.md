@@ -4,7 +4,7 @@
  * I also learned linear-gradients in css.
  * I also learned how to design Buttons and Navbar.
  
-### Project link -[Link](https://full-stack-js-project1.netlify.app/)
+### Project link -[Link](https://bagaltanaji.github.io/FULL-STACK-PROJECT-1/)
 
 ### This project took around 5 hours to complete.
 
